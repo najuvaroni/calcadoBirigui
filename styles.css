@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: #63318A;
+}
+
+.logo{
+    width: 100px;
+}
+.sec1{
+    padding-left: 30px;
+    background-color: #63318A;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.divrosa{
+    background-color: #EE2E84;
+    height: 180px;
+    width: 480px;
+    
+}
+
+.pararosa{
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.bttvideo{
+    padding: 40px;
+    background-color: #4FAECC;
+    height: 30px;
+    color: white;
+}
+
+.sec2{
+    background-color: #8CCDE2;
+}
+
